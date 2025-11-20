@@ -94,7 +94,7 @@ export default function ApiTest() {
       <div style={card}>
         <div style={row}>
           <h1 style={{ fontSize: 20, fontWeight: 800, display: "flex", alignItems: "center", gap: 8 }}>
-            🔌 API 통신 테스트
+            🔌 API 통신 테스트!!
             <span style={badge}>프로젝트: {projectName}</span>
           </h1>
           <span style={small}>BASE: {base}</span>
